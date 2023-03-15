@@ -1,3 +1,2 @@
-# handler2
-# handler2
+# handler
 тестирование handler из thread 3.4.4
